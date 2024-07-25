@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shiv Kumar
-- 👀 I’m interested in Machine Learning, Computer Vision and Web Development
-- 🌱 I’m currently learning Computer Vision
+- 👀 I’m interested in Web Development and Machine Learning
 - 💞️ I’m looking to collaborate on Big projects matching my interests
 - 📫 you can reach me by emailing to my Gmail account "shiv95587@gmail.com"
 

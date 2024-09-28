@@ -3,7 +3,8 @@
 I'm passionate about:
 
 - **Web Development**: MERN stack and Next.js
-- **AI and Machine Learning**
+- **Generative AI**
+- **Java**
 - **Information Retrieval**
 
 💞️ I'm looking to collaborate on real-world projects that align with my interests.  

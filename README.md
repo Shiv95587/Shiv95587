@@ -3,8 +3,7 @@
 I'm passionate about:
 
 - **Web Development**: MERN stack and Next.js
-- **Java**
-- **C#/.NET**
+- **.NET**
 - **Generative AI**
 - **Information Retrieval**
 

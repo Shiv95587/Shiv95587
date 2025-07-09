@@ -2,7 +2,7 @@
 
 I'm passionate about:
 
-- **Web Development**: MERN stack and Next.js
+- **Web Development**: MERN/PERN and Next.js
 - **.NET**
 - **Generative AI**
 - **Information Retrieval**
